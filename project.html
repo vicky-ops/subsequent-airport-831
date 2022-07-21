@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="project.css">
-   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.7/dist/css/themes/splide-skyblue.min.css">
     <script src="https://kit.fontawesome.com/09a751e09e.js" crossorigin="anonymous"></script>
     
 </head>
-<body>
+<body onload="show()"  >
     <div id="cont">
         <div class="navbar">
             <h3>Hotels <div class="icons"><i class="fa-solid fa-bed"></i></div></h3>
@@ -65,11 +65,96 @@
 
 </div>
 </div>
+<!-- slider  -->
+<h1 id="heading">Top experiences on Tripadvisor</h1>
+<div class="parent" >
+   
+    <!-- for left clic -->
+    <div id="leftarrow" onclick="moveleft()" >
+        <button> &lt; </button>
+    </div>
+    
+    <!-- for child div -->
+    <div class="child" id="c1">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5f/cb/ed/caption.jpg?w=400&h=400&s=1" alt="">
+        <h2>Four-Day Private Luxury Golden Triangle Tour to Agra and Jaipur </h2>
+        
+    </div>
+    
+    
+    <div class="child" id="c2">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/97/0c/e8/caption.jpg?w=400&h=400&s=1" alt="">
+        <h2>Private Day Tour of Taj Mahal and Agra Fort By Superfast Train - All Inclusive</h2>
+        
+    </div>
+    
+    
+    <div class="child" id="c3">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/39/26/43/caption.jpg?w=300&h=300&s=1" alt="">
+        <h2>Highlights of Goa Private Sightseeing Tour:Winner of TRAVELLERS </h2>
+        
+    </div>
+    
+    
+    
+    
+    <div class="child" id="c4">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5a/ea/82/caption.jpg?w=300&h=300&s=1" alt="">
+        <h2>All Inclusive Day Trip to Taj Mahal, Agra Fort and Baby Taj from Delhi , Exciting price</h2>
+    
+    </div>
+    
+    
+    <div class="child" id="c5">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f5/18/12/coffee-plant-laden-with.jpg?w=300&h=300&s=1" alt="">
+        <h2> Mahal, Agra Fort and Baby Taj from Delhi by Car at low Price  Exciting deal   </h2>
+       
+    </div>
+    
+    
+    <div class="child" id="c6">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f1/42/c3/caption.jpg?w=300&h=300&s=1" alt="">
+        <h2>Fontainhas Heritage Walk by Make It Happen come and join Goa </h2>
+        
+    </div>
+    
+    
+    
+    <div class="child" id="c7">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/64/5f/f1/caption.jpg?w=300&h=300&s=1" alt="">
+        <h2>Highlights of Mumbai Private Sightseeing Tour:Winner of TRAVELLERS </h2>
+        
+    </div>
+    
+    
+    <div class="child" id="c8">
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/0e/f6/1f/caption.jpg?w=300&h=300&s=1" alt="">
+        <h2>Full-Day Private Old and New Delhi Combo Tour by car at affortale price</h2>
+      
+    </div>
+    
+    
+    
+    <!-- for right click -->
+    <div id="rightarrow" onclick="moveright()"   >
+        <button> &gt; </button>
+    </div>
+    
+    
+        </div>
 
 
+<div id="show">
+<div id="box1">
+    <h1>Get out there </h1>
+    <p>Best of the Best tour , Attractive & Activities you wont't want to Miss .</p>
+    <button>See the list</button>
+</div>
 
 
+<div id="box2"><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f7/1d/4d/caption.jpg?w=1000&h=-1&s=1" alt=""></div>
 
+</div>
 
 </body>
 </html>

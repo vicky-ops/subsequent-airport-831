@@ -193,3 +193,91 @@ font-weight: bold;
 #btn_section>button:nth-child(3):hover{
 background-color:#29a075 ;
 }
+
+/* slider */
+#heading{
+margin-left: 70px;
+}
+
+
+
+.parent{
+    display: flex;
+ justify-content: center;
+align-items: center;
+height: 500px;
+/* border: 1px solid red; */
+margin-top: 20px;
+/* background: linear-gradient(#FBB03B,  #DD2476); */
+}
+.child{
+width: 33%;
+margin-left: 10px;
+margin-right: 10px;
+display: none;
+/* border: 1px solid red; */
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+/* background: linear-gradient(#e66465, #9198e5); */
+margin-top: -100px;
+}
+.child img {
+height: 250px;
+width: 100%;
+}
+
+#leftarrow , #rightarrow  {
+margin: 13px;
+width: 3%;
+display: inline-block;
+margin-top: -100px;
+}
+#leftarrow button , #rightarrow  button{
+font-weight: bold;
+cursor: pointer;
+font-size: 15px;
+border-radius: 100%;
+height: 40px;
+width: 40px;
+}
+
+.child>button{
+color: white;
+background-color: black;
+height: 50px;
+margin-left: 110px;
+}
+.child>h2{
+text-align: center;
+}
+
+#show{
+    display: grid;
+    /* border: 1px solid black; */
+    height: 240px;
+    grid-template-columns: repeat(2 , 1fr);
+    grid-template-rows: auto;
+    margin-bottom: 300px;
+}
+#box2>img{
+    height:240px ;
+    width: 70%;
+    margin-left: 220px;
+}
+#box1{
+    
+    height:240px ;
+    margin-left: 20PX;
+    background-color: #faf1ed;
+}
+#box1>button{
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    padding: 4px;
+    background-color: black;
+    color: white;
+}
+#box1>button:hover{
+    background-color: rgb(79, 68, 68);
+    color: white;
+}
