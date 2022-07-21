@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <style>
+#navbar{
+    display:flex;
+    width:92%;
+     
+    height:80px;
+    margin:auto;
+  background-color: white;
+  
+  position: fixed;
+  top: 0;
+
+}
+#image{
+    width:50%;
+}
+#buttons{
+    display:flex;
+    width:35%;
+    justify-content: space-evenly;
+    
+    margin-left:150px;
+     
+    margin-top: 10px;
+}
+#image1{
+    width:220px;
+    height:70px;
+    margin-left: 100px;
+    
+}
+#first{
+    margin-top: 10px;
+    height:45px;
+    width:80px;
+    display: flex;
+}
+button{
+    display: flex;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+#pen1{
+    height: 20px;
+}
+#heart{
+    margin-top: 10px;
+    height:45px;
+    width:80px;
+    display: flex;
+}
+#heart1{
+    height: 20px;
+     
+    
+
+}
+#second{
+    margin-top: 10px;
+    height:45px;
+    width:80px;
+    display: flex;
+}
+#alert{
+    margin-top: 10px;
+    height:45px;
+    width:80px;
+    display: flex;
+}
+#alert1{
+    height: 30px;
+    margin-top: -18px;
+     
+}
+#alert2{
+    width:90px;
+     
+    font-size: 16px;
+    margin-left: -2px;
+}
+#third{
+    margin-top: 12px;
+    height:45px;
+    width:120px;
+    display: flex;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#thirdb{
+    width:95px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 10px;
+    border: 0px;
+    
+}
+#thirdb:hover{
+    background-color:rgb(240, 236, 236);
+}
+#firstb:hover{
+    background-color:rgb(240, 236, 236);
+}
+#secondb:hover{
+    background-color:rgb(240, 236, 236);
+}
+#sign{
+    background-color: black;
+    color: white;
+    margin-top: 4px;
+    width: 95px;
+    height: 53px;
+    padding: 15px;
+    font-size: 17px;
+    font-weight:790;
+}
+#sign:hover{
+    background-color: rgb(32, 32, 32);
+}
+#heart{
+    margin-top: 10px;
+    height:45px;
+    width:80px;
+    display: flex;
+}
+#heart1{
+    height: 25px;
+    margin-top: -15px;
+    margin-left: 5px; 
+}
+#heart2{
+    width:90px;
+     
+    font-size: 16px;
+    margin-left: -12px;
+}
+#second{
+    margin-top: 12px;
+    height:45px;
+    width:120px;
+    display: flex;
+    background-color: white;
+    margin-left: 10px;
+}
+#secondb{
+    width:95px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 10px;
+    border: 0px;
+}
+#pen{
+    margin-top: 10px;
+    height:45px;
+    width:80px;
+    display: flex;
+}
+#pen1{
+    height: 25px;
+    margin-top: -17px;
+    margin-left: -7px;
+     
+}
+#pen2{
+    width:90px;
+     
+    font-size: 16px;
+    margin-left: -2px;
+}
+#first{
+    margin-top: 12px;
+    height:45px;
+    width:120px;
+    display: flex;
+    background-color: white;
+    margin-left: 90px;
+}
+#firstb{
+    width:95px;
+    padding:11px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 10px;
+    border: 0px;
+}
+#fourth{
+    margin-left: 12px;
+}
+#new{
+    width:100%;
+    height: 1500px;
+    margin-top: 500px;
+}
+  </style>
+
+  <body>
+    
+    <div id="navbar">
+        
+        <div id="image">
+            
+            <img id="image1" src="https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg"/>
+
+        </div>
+
+        <div id="buttons">
+            <div id="first">
+                <button id="firstb">
+                    <div id="pen">
+                    <img id="pen1" src="http://cdn.onlinewebfonts.com/svg/img_428525.png"/>
+                    </div>
+                    <div id="pen2">
+                    Review    
+                    </div>
+                </button>
+            </div>
+            <div id="second">
+                <button id="secondb">
+                    <div id="heart">
+                    <img id="heart1" src="data:image/png;base64,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"/>
+                    </div>
+                    <div id="heart2">
+                    Trips    
+                    </div></button>
+            </div>
+            <div id="third">
+                <button id="thirdb">
+                    <div id="alert">
+                        <img id="alert1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Q8ondwWLF74353iD55mAZ8-azeD0Id8soucdSJ-kn_iTgEh9HjGu7Pnq72E6Qzlr5yI&usqp=CAU"/>
+                        </div>
+                        <div id="alert2">
+                        Alerts    
+                        </div>
+                </button>
+            </div>
+            <div id="fourth">
+                <button id="sign">Sign in</button>
+            </div>
+
+
+        </div>        
+
+    </div>
+
+  </body>
+</html>
+
+<script>
+
+</script>
