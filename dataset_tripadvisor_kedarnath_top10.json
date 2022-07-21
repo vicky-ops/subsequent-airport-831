@@ -1,0 +1,2084 @@
+[{
+  "type": "ATTRACTION",
+  "location_id": "13137437",
+  "name": "This & That",
+  "latitude": "36.31124",
+  "longitude": "-78.5877",
+  "num_reviews": "1",
+  "timezone": "America/New_York",
+  "location_string": "Oxford, North Carolina",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/65/6a/c2/inside.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/65/6a/c2/inside.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "623",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/65/6a/c2/inside.jpg",
+        "height": "467"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/65/6a/c2/inside.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/65/6a/c2/inside.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-11-29T06:52:06-0500",
+    "caption": "inside",
+    "id": "291859138",
+    "helpful_votes": "0",
+    "published_date": "2017-11-29T06:52:06-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/13137437",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.north_carolina",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.742337942123413",
+  "ranking_geo": "Oxford",
+  "ranking_geo_id": "49415",
+  "ranking_position": "5",
+  "ranking_denominator": "7",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#5 of 7 things to do in Oxford",
+  "subcategory_ranking": "#5 of 7 things to do in Oxford",
+  "ranking": "#5 of 7 things to do in Oxford",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g49415-d13137437-Reviews-This_That-Oxford_North_Carolina.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g49415-d13137437-This_That-Oxford_North_Carolina.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Oxford",
+      "abbrv": null,
+      "location_id": "49415"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "North Carolina",
+      "abbrv": "NC",
+      "location_id": "28954"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Oxford",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 919-693-7058",
+  "website": "http://www.thisnthatstorenc.com/",
+  "email": "bettyboop3419@hotmail.com",
+  "address_obj": {
+    "street1": "125 Main St",
+    "street2": null,
+    "city": "Oxford",
+    "state": "NC",
+    "country": "United States",
+    "postalcode": "27565-3318"
+  },
+  "address": "125 Main St, Oxford, NC 27565-3318",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "137",
+      "name": "Antique Stores"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "8699188",
+  "name": "Oxford Downtown Indoor Flea Market",
+  "latitude": "36.311043",
+  "longitude": "-78.58953",
+  "num_reviews": "6",
+  "timezone": "America/New_York",
+  "location_string": "Oxford, North Carolina",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/7b/02/57/oxford-downtown-indoor.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/7b/02/57/oxford-downtown-indoor.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "674",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/7b/02/57/oxford-downtown-indoor.jpg",
+        "height": "506"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/7b/02/57/oxford-downtown-indoor.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/7b/02/57/oxford-downtown-indoor.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-11-11T08:59:39-0500",
+    "caption": "inside",
+    "id": "159056471",
+    "helpful_votes": "1",
+    "published_date": "2015-11-11T08:59:39-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8699188",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.north_carolina",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.806546449661255",
+  "ranking_geo": "Oxford",
+  "ranking_geo_id": "49415",
+  "ranking_position": "1",
+  "ranking_denominator": "7",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 7 things to do in Oxford",
+  "subcategory_ranking": "#1 of 7 things to do in Oxford",
+  "ranking": "#1 of 7 things to do in Oxford",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g49415-d8699188-Reviews-Oxford_Downtown_Indoor_Flea_Market-Oxford_North_Carolina.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g49415-d8699188-Oxford_Downtown_Indoor_Flea_Market-Oxford_North_Carolina.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Oxford",
+      "abbrv": null,
+      "location_id": "49415"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "North Carolina",
+      "abbrv": "NC",
+      "location_id": "28954"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Oxford",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 919-690-1099",
+  "address_obj": {
+    "street1": "135 Hillsboro St",
+    "street2": "Oxford Downtown Mall",
+    "city": "Oxford",
+    "state": "NC",
+    "country": "United States",
+    "postalcode": "27565-3211"
+  },
+  "address": "135 Hillsboro St Oxford Downtown Mall, Oxford, NC 27565-3211",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "137",
+      "name": "Antique Stores"
+    },
+    {
+      "key": "142",
+      "name": "Flea & Street Markets"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "8685737",
+  "name": "Granville County Museum and Harris Exhibit Hall",
+  "latitude": "36.312256",
+  "longitude": "-78.58737",
+  "num_reviews": "1",
+  "timezone": "America/New_York",
+  "location_string": "Oxford, North Carolina",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/78/c7/44/granville-county-museum.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/78/c7/44/granville-county-museum.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "726",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/78/c7/44/granville-county-museum.jpg",
+        "height": "545"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/78/c7/44/granville-county-museum.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/78/c7/44/granville-county-museum.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-11-10T08:04:05-0500",
+    "caption": "outside exhibit hall",
+    "id": "158910276",
+    "helpful_votes": "0",
+    "published_date": "2015-11-10T08:04:05-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8685737",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.north_carolina",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7393455505371094",
+  "ranking_geo": "Oxford",
+  "ranking_geo_id": "49415",
+  "ranking_position": "6",
+  "ranking_denominator": "7",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#6 of 7 things to do in Oxford",
+  "subcategory_ranking": "#6 of 7 things to do in Oxford",
+  "ranking": "#6 of 7 things to do in Oxford",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g49415-d8685737-Reviews-Granville_County_Museum_and_Harris_Exhibit_Hall-Oxford_North_Carolina.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g49415-d8685737-Granville_County_Museum_and_Harris_Exhibit_Hall-Oxford_North_Carolina.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Oxford",
+      "abbrv": null,
+      "location_id": "49415"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "North Carolina",
+      "abbrv": "NC",
+      "location_id": "28954"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Oxford",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 919-693-9706",
+  "website": "http://www.visitnc.com/listing/granville-county-museum-and-harris-exhibit-hall",
+  "address_obj": {
+    "street1": "One Museum Lane",
+    "street2": null,
+    "city": "Oxford",
+    "state": "NC",
+    "country": "United States",
+    "postalcode": "27565"
+  },
+  "address": "One Museum Lane, Oxford, NC 27565",
+  "hours": {
+    "week_ranges": [
+      [],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 960
+        }
+      ],
+      [],
+      []
+    ],
+    "timezone": "America/New_York"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "8687609",
+  "name": "Oxford Downtown Mall",
+  "latitude": "36.31105",
+  "longitude": "-78.58949",
+  "num_reviews": "2",
+  "timezone": "America/New_York",
+  "location_string": "Oxford, North Carolina",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/7a/ff/66/oxford-downtown-mall.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/7a/ff/66/oxford-downtown-mall.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "674",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/7a/ff/66/oxford-downtown-mall.jpg",
+        "height": "506"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/7a/ff/66/oxford-downtown-mall.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/7a/ff/66/oxford-downtown-mall.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-11-11T08:52:29-0500",
+    "caption": "inside",
+    "id": "159055718",
+    "helpful_votes": "0",
+    "published_date": "2015-11-11T08:52:29-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8687609",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.north_carolina",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.621633768081665",
+  "ranking_geo": "Oxford",
+  "ranking_geo_id": "49415",
+  "ranking_position": "7",
+  "ranking_denominator": "7",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#7 of 7 things to do in Oxford",
+  "subcategory_ranking": "#7 of 7 things to do in Oxford",
+  "ranking": "#7 of 7 things to do in Oxford",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "2.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g49415-d8687609-Reviews-Oxford_Downtown_Mall-Oxford_North_Carolina.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g49415-d8687609-Oxford_Downtown_Mall-Oxford_North_Carolina.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Oxford",
+      "abbrv": null,
+      "location_id": "49415"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "North Carolina",
+      "abbrv": "NC",
+      "location_id": "28954"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Oxford",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 919-603-1545",
+  "address_obj": {
+    "street1": "135 Hillsboro St",
+    "street2": null,
+    "city": "Oxford",
+    "state": "NC",
+    "country": "United States",
+    "postalcode": "27565-3211"
+  },
+  "address": "135 Hillsboro St, Oxford, NC 27565-3211",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "142",
+      "name": "Flea & Street Markets"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "13130664",
+  "name": "Sallie Mae Ligon Museum & Archives",
+  "latitude": "36.31868",
+  "longitude": "-78.59395",
+  "num_reviews": "1",
+  "timezone": "America/New_York",
+  "location_string": "Oxford, North Carolina",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/67/86/98/archives-room.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/67/86/98/archives-room.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "623",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/67/86/98/archives-room.jpg",
+        "height": "467"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/67/86/98/archives-room.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/67/86/98/archives-room.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-11-30T07:42:41-0500",
+    "caption": "archives room",
+    "id": "291997336",
+    "helpful_votes": "0",
+    "published_date": "2017-11-30T07:42:41-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/13130664",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.north_carolina",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.753157377243042",
+  "ranking_geo": "Oxford",
+  "ranking_geo_id": "49415",
+  "ranking_position": "3",
+  "ranking_denominator": "7",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 7 things to do in Oxford",
+  "subcategory_ranking": "#3 of 7 things to do in Oxford",
+  "ranking": "#3 of 7 things to do in Oxford",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g49415-d13130664-Reviews-Sallie_Mae_Ligon_Museum_Archives-Oxford_North_Carolina.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g49415-d13130664-Sallie_Mae_Ligon_Museum_Archives-Oxford_North_Carolina.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Oxford",
+      "abbrv": null,
+      "location_id": "49415"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "North Carolina",
+      "abbrv": "NC",
+      "location_id": "28954"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Oxford",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 919-603-3904",
+  "website": "http://www.facebook.com/Sallie-Mae-Ligon-Museum-Archives-1700618196821444/",
+  "address_obj": {
+    "street1": "600 College St",
+    "street2": null,
+    "city": "Oxford",
+    "state": "NC",
+    "country": "United States",
+    "postalcode": "27565-2717"
+  },
+  "address": "600 College St, Oxford, NC 27565-2717",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "7358778",
+  "name": "Granville Little Theatre",
+  "latitude": "36.31285",
+  "longitude": "-78.584",
+  "num_reviews": "1",
+  "timezone": "America/New_York",
+  "location_string": "Oxford, North Carolina",
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/7358778",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.north_carolina",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.749673843383789",
+  "ranking_geo": "Oxford",
+  "ranking_geo_id": "49415",
+  "ranking_position": "4",
+  "ranking_denominator": "7",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 7 things to do in Oxford",
+  "subcategory_ranking": "#4 of 7 things to do in Oxford",
+  "ranking": "#4 of 7 things to do in Oxford",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g49415-d7358778-Reviews-Granville_Little_Theatre-Oxford_North_Carolina.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g49415-d7358778-Granville_Little_Theatre-Oxford_North_Carolina.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Oxford",
+      "abbrv": null,
+      "location_id": "49415"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "North Carolina",
+      "abbrv": "NC",
+      "location_id": "28954"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "58",
+      "name": "Concerts & Shows"
+    }
+  ],
+  "parent_display_name": "Oxford",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.granvillelittletheater.com/",
+  "address_obj": {
+    "street1": "300 Williamsboro St",
+    "street2": null,
+    "city": "Oxford",
+    "state": "NC",
+    "country": "United States",
+    "postalcode": "27565-3007"
+  },
+  "address": "300 Williamsboro St, Oxford, NC 27565-3007",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "116",
+      "name": "Theaters"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "8692759",
+  "name": "Remember When Antiques",
+  "latitude": "36.32446",
+  "longitude": "-78.59555",
+  "num_reviews": "4",
+  "timezone": "America/New_York",
+  "location_string": "Oxford, North Carolina",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/7a/f4/8c/remember-when-antiques.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/7a/f4/8c/remember-when-antiques.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "674",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/7a/f4/8c/remember-when-antiques.jpg",
+        "height": "506"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/7a/f4/8c/remember-when-antiques.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/7a/f4/8c/remember-when-antiques.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-11-11T08:19:47-0500",
+    "caption": "inside",
+    "id": "159052940",
+    "helpful_votes": "0",
+    "published_date": "2015-11-11T08:19:47-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8692759",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.north_carolina",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7804059982299805",
+  "ranking_geo": "Oxford",
+  "ranking_geo_id": "49415",
+  "ranking_position": "2",
+  "ranking_denominator": "7",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 7 things to do in Oxford",
+  "subcategory_ranking": "#2 of 7 things to do in Oxford",
+  "ranking": "#2 of 7 things to do in Oxford",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g49415-d8692759-Reviews-Remember_When_Antiques-Oxford_North_Carolina.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g49415-d8692759-Remember_When_Antiques-Oxford_North_Carolina.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Oxford",
+      "abbrv": null,
+      "location_id": "49415"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "North Carolina",
+      "abbrv": "NC",
+      "location_id": "28954"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Oxford",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 919-693-3112",
+  "website": "https://www.facebook.com/RememberWhenAntiquesCollectiblesGiftGardenShoppe",
+  "address_obj": {
+    "street1": "917 College St",
+    "street2": null,
+    "city": "Oxford",
+    "state": "NC",
+    "country": "United States",
+    "postalcode": "27565-2651"
+  },
+  "address": "917 College St, Oxford, NC 27565-2651",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "137",
+      "name": "Antique Stores"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "2048779",
+  "name": "Wildlife SOS",
+  "latitude": "27.298794",
+  "longitude": "77.79437",
+  "num_reviews": "1111",
+  "timezone": "Asia/Kolkata",
+  "location_string": "Agra, Agra District, Uttar Pradesh",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/c8/87/e4/wildlife-sos.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/c8/87/e4/wildlife-sos.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "800",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/c8/87/e4/wildlife-sos.jpg",
+        "height": "534"
+      },
+      "large": {
+        "width": "800",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/c8/87/e4/wildlife-sos.jpg",
+        "height": "534"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/c8/87/e4/wildlife-sos.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2013-11-04T22:28:49-0500",
+    "caption": "Bhagira Bear enjoying his afternoon siesta",
+    "id": "80250852",
+    "helpful_votes": "6",
+    "published_date": "2013-11-04T22:28:49-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/2048779",
+  "awards": [
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2020",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2020"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2019",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2019"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2018",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2018"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2017",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2017"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2016",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2016"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2014",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2014"
+    }
+  ],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.india.uttar_pradesh.agra",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.303964138031006",
+  "ranking_geo": "Agra",
+  "ranking_geo_id": "297683",
+  "ranking_position": "3",
+  "ranking_denominator": "94",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 94 things to do in Agra",
+  "subcategory_ranking": "#3 of 94 things to do in Agra",
+  "ranking": "#3 of 94 things to do in Agra",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "Wildlife SOS Agra Bear Rescue Facility is home to nearly 200 sloth bears that were rescued from the brutal practice of bear dancing. The kalandar gypsies that depended on exploiting these bears were established in alternative livelihoods by Wildlife SOS to ensure the safety of the bears and a legal way of life for the community. This center is run entirely from Donations raised by Wildlife SOS. The Forest Department charges an Admission of Rs 500 for Foreign Nationals and Rs 50 for Indians. These fees do not go to support the bear rescue center. Wildlife SOS offers conservation educational visit combined with interaction with bear experts. A donation is requested from visitors to help care for the animals. Receipt is issued for donations. Wildlife SOS also runs India's only Elephant Hospital at the Elephant Conservation & Care Center, home to over 20 rescued elephants ; a 15 min drive from the bear sanctuary. Contact Wildlife SOS for more details.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g297683-d2048779-Reviews-Wildlife_SOS-Agra_Agra_District_Uttar_Pradesh.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297683-d2048779-Wildlife_SOS-Agra_Agra_District_Uttar_Pradesh.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Agra",
+      "abbrv": null,
+      "location_id": "297683"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "district",
+          "name": "District"
+        }
+      ],
+      "name": "Agra District",
+      "abbrv": null,
+      "location_id": "12396672"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Uttar Pradesh",
+      "abbrv": null,
+      "location_id": "297682"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "India",
+      "abbrv": null,
+      "location_id": "293860"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Agra",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+91 97562 05080",
+  "website": "http://www.wildlifesos.org",
+  "email": "visit@wildlifesos.org",
+  "address_obj": {
+    "street1": "National Highway 2",
+    "street2": "Astha City",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postalcode": "282007"
+  },
+  "address": "National Highway 2 Astha City, Agra 282007 India",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "68",
+      "name": "Nature & Wildlife Areas"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgra%2FExperience-Wildlife-SOS-Agra-with-Transportation-From-Agra%2Fd4547-26911P68%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=a2dbe0da0b943ca9c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2048779&clt=TD&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$6.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgra%2FExperience-Wildlife-SOS-Agra-with-Transportation-From-Agra%2Fd4547-26911P68%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=a2dbe0da0b943ca9c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2048779&clt=TD&from=api&nt=true",
+        "price": "$13.02",
+        "rounded_up_price": "$14",
+        "offer_type": "",
+        "title": "Tour to Wildlife SOS (Elephant Conservation Centre Trip, Agra)",
+        "product_code": "26911P68",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b3/2c/ff.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2FPickup-New-Delhi-and-Visit-To-Tajmahal-and-Wildlife-SOS-agra-with-Private-Transports%2Fd804-26911P354%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=f008ef8367a92915d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=2048779&clt=TD&from=api&nt=true",
+        "price": "$97.67",
+        "rounded_up_price": "$98",
+        "offer_type": "",
+        "title": "Guided Tour To Tajmahal & Wildlife SOS with Transports From Delhi",
+        "product_code": "26911P354",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/f0/47/18.jpg",
+        "description": null,
+        "primary_category": "Private Drivers"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgra%2FDay-Trip-to-an-Elephant-Conservation-and-Care-Center-near-Agra%2Fd4547-5588P305%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2e096eb6328f522f1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=2048779&clt=TD&from=api&nt=true",
+        "price": "$72.00",
+        "rounded_up_price": "$72",
+        "offer_type": "",
+        "title": "Day Trip to an Elephant Conservation and Care Center near Agra",
+        "product_code": "5588P305",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/36/65/e9.jpg",
+        "description": null,
+        "primary_category": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2FSunrise-at-Tajmahal-From-New-Delhi%2Fd804-26911P98%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=a92e475cf22369ad7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=2048779&clt=TD&from=api&nt=true",
+        "price": "$130.22",
+        "rounded_up_price": "$131",
+        "offer_type": "",
+        "title": "Start 3 am Sunrise at Tajmahal From New Delhi with Guided Trip",
+        "product_code": "26911P98",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/5c/d0.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2FPickup-New-Delhi-and-Visit-To-Tajmahal-Agra-Fort-and-Wildlife-SOS-and-Drop-Jaipur%2Fd804-26911P408%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=bbd8bc664fe392c2b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=2048779&clt=TD&from=api&nt=true",
+        "price": "$130.22",
+        "rounded_up_price": "$131",
+        "offer_type": "",
+        "title": "Guided Tour To Tajmahal - Agra Fort & Wildlife SOS & Drop Jaipur",
+        "product_code": "26911P408",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/36/c3/07.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "animal_welfare_tag": {
+    "tag_text": "Features Animals",
+    "msg_header": "This attraction features animals",
+    "msg_body": "Click below for expert advice on animal welfare in tourism.",
+    "learn_more_text": "Learn more",
+    "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+  },
+  "tags": {
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    }
+  },
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "317329",
+  "name": "Taj Mahal",
+  "latitude": "27.174385",
+  "longitude": "78.042175",
+  "num_reviews": "31754",
+  "timezone": "Asia/Kolkata",
+  "location_string": "Agra, Agra District, Uttar Pradesh",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/86/b2/42/taj-mahal.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/86/b2/42/taj-mahal.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/86/b2/42/taj-mahal.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/86/b2/42/taj-mahal.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/86/b2/42/taj-mahal.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-06-30T12:14:35-0400",
+    "caption": "Taj Mahal",
+    "id": "327594562",
+    "helpful_votes": "17",
+    "published_date": "2018-06-30T12:14:35-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/317329",
+  "awards": [
+    {
+      "award_type": "Traveler's Choice",
+      "year": "2022",
+      "images": {
+        "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+        "large": "https://www.tripadvisor.com/img2/awards/TC_2014_downloadable_L_TM.jpg"
+      },
+      "categories": [
+        "Things to Do"
+      ],
+      "display_name": "Travelers' Choice 2022"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2022",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2022_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2022"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2020",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2020"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2019",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2019"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2018",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2018"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2017",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2017"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2016",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2016"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2015",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2015"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2014",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2014"
+    }
+  ],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.india.uttar_pradesh.agra",
+  "preferred_map_engine": "default",
+  "raw_ranking": "5.0",
+  "ranking_geo": "Agra",
+  "ranking_geo_id": "297683",
+  "ranking_position": "1",
+  "ranking_denominator": "94",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 94 things to do in Agra",
+  "subcategory_ranking": "#1 of 94 things to do in Agra",
+  "ranking": "#1 of 94 things to do in Agra",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g297683-d317329-Reviews-Taj_Mahal-Agra_Agra_District_Uttar_Pradesh.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297683-d317329-Taj_Mahal-Agra_Agra_District_Uttar_Pradesh.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Agra",
+      "abbrv": null,
+      "location_id": "297683"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "district",
+          "name": "District"
+        }
+      ],
+      "name": "Agra District",
+      "abbrv": null,
+      "location_id": "12396672"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Uttar Pradesh",
+      "abbrv": null,
+      "location_id": "297682"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "India",
+      "abbrv": null,
+      "location_id": "293860"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Agra",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+91 0562 2226431",
+  "website": "https://www.tajmahal.gov.in/",
+  "email": "Info@tajmahal.gov.in",
+  "address_obj": {
+    "street1": "Dharmapuri, Forest Colony, Tajganj",
+    "street2": "",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postalcode": "282001"
+  },
+  "address": "Dharmapuri, Forest Colony, Tajganj, Agra 282001 India",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2FNew-Delhi-attractions%2FTaj-Mahal-tours-tickets%2Fd804-a3010%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=6c1c4243dfc85e577&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=317329&clt=TD&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgra%2FAgra-Taj-Mahal-Skip-the-Line-Entrance-Ticket%2Fd4547-9512P14%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=c7cc1cdd60d7c3fd8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=317329&clt=TD&from=api&nt=true",
+        "price": "$21.34",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Taj Mahal entrance ticket with optional add-ons ",
+        "product_code": "9512P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/3a/67/5c.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2F1-Day-Trip-to-Agra-from-Delhi-by-Superfast-Train%2Fd804-28875P10%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=364829755fa0e1836&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=317329&clt=TD&from=api&nt=true",
+        "price": "$75.00",
+        "rounded_up_price": "$75",
+        "offer_type": "",
+        "title": "Private Day Tour of Taj Mahal and Agra Fort By Superfast Train - All Inclusive",
+        "product_code": "28875P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/73/3b.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2FPrivate-Tour-by-Train-Taj-Mahal-Agra-Fort-and-Fatehpur-Sikri-from-Delhi%2Fd804-9512P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=c82967bf6566a077f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=317329&clt=TD&from=api&nt=true",
+        "price": "$115.00",
+        "rounded_up_price": "$115",
+        "offer_type": "",
+        "title": "Private Taj Mahal Tour from Delhi by Express Train - All Inclusive",
+        "product_code": "9512P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/1f/97/3e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgra%2FE-Tickets-Taj-Mahal-with-mausoleum-Admission%2Fd4547-26911P333%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=38246d1110ff4a537&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=317329&clt=TD&from=api&nt=true",
+        "price": "$29.30",
+        "rounded_up_price": "$30",
+        "offer_type": "",
+        "title": "Taj Mahal Skip-the-Line E-tickets & guide",
+        "product_code": "26911P333",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/5c/87.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2FPrivate-Tour-Day-Trip-to-Agra-from-Delhi-including-Taj-Mahal-and-Agra-Fort%2Fd804-5588GETSONEPD%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=65e0de91e8ade8f86&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=317329&clt=TD&from=api&nt=true",
+        "price": "$85.00",
+        "rounded_up_price": "$85",
+        "offer_type": "",
+        "title": "Private Day Trip to Agra includes Taj Mahal and Agra Fort from Delhi",
+        "product_code": "5588GETSONEPD",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/11/54.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "location_id": "319695",
+  "name": "Agra Fort",
+  "latitude": "27.179667",
+  "longitude": "78.02113",
+  "num_reviews": "11933",
+  "timezone": "Asia/Kolkata",
+  "location_string": "Agra, Agra District, Uttar Pradesh",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/0b/04/29/fort-amber-rajastan-indien.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/0b/04/29/fort-amber-rajastan-indien.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "830",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/0b/04/29/fort-amber-rajastan-indien.jpg",
+        "height": "554"
+      },
+      "large": {
+        "width": "830",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/0b/04/29/fort-amber-rajastan-indien.jpg",
+        "height": "554"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/0b/04/29/fort-amber-rajastan-indien.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2008-01-25T09:24:54-0500",
+    "caption": "Rotes Fort Agra, Rajastan, Indien",
+    "id": "17499177",
+    "helpful_votes": "49",
+    "published_date": "2008-01-25T10:56:05-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/319695",
+  "awards": [
+    {
+      "award_type": "Traveler's Choice",
+      "year": "2022",
+      "images": {
+        "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+        "large": "https://www.tripadvisor.com/img2/awards/TC_2014_downloadable_L_TM.jpg"
+      },
+      "categories": [
+        "Things to Do"
+      ],
+      "display_name": "Travelers' Choice 2022"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2022",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2022_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2022"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2021",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2021"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2020",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2020"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2019",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2019"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2018",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2018"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2017",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2017"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2016",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2016"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2015",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2015"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2014",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2014"
+    },
+    {
+      "award_type": "CERTIFICATE_OF_EXCELLENCE",
+      "year": "2013",
+      "images": {
+        "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+        "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+      },
+      "categories": [],
+      "display_name": "Certificate of Excellence 2013"
+    }
+  ],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.india.uttar_pradesh.agra",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.704184055328369",
+  "ranking_geo": "Agra",
+  "ranking_geo_id": "297683",
+  "ranking_position": "2",
+  "ranking_denominator": "94",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 94 things to do in Agra",
+  "subcategory_ranking": "#2 of 94 things to do in Agra",
+  "ranking": "#2 of 94 things to do in Agra",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "An important medieval complex with beautiful mosques and palaces.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g297683-d319695-Reviews-Agra_Fort-Agra_Agra_District_Uttar_Pradesh.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297683-d319695-Agra_Fort-Agra_Agra_District_Uttar_Pradesh.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Agra",
+      "abbrv": null,
+      "location_id": "297683"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "district",
+          "name": "District"
+        }
+      ],
+      "name": "Agra District",
+      "abbrv": null,
+      "location_id": "12396672"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Uttar Pradesh",
+      "abbrv": null,
+      "location_id": "297682"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "India",
+      "abbrv": null,
+      "location_id": "293860"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Agra",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "https://www.agrafort.gov.in/indexNew/index.html",
+  "address_obj": {
+    "street1": "Agra Fort",
+    "street2": "Rakabgani",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postalcode": "282003"
+  },
+  "address": "Agra Fort Rakabgani, Agra 282003 India",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 390,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Asia/Kolkata"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "6",
+      "name": "Castles"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2FIndia-attractions%2FAgra-Fort-tours-tickets%2Fd723-a13518%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=034524da7705607ed&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=319695&clt=TD&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgra%2FTaj-Mahal-and-Agra-Fort-Skip-the-Line-E-tickets-and-guide%2Fd4547-26911P227%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=965d11d5d1e0f525f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=319695&clt=TD&from=api&nt=true",
+        "price": "$39.07",
+        "rounded_up_price": "$40",
+        "offer_type": "",
+        "title": "Taj Mahal and Agra Fort Skip-the-Line E-tickets & guide",
+        "product_code": "26911P227",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/fc/77/b2.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2FPrivate-Tour-by-Train-Taj-Mahal-Agra-Fort-and-Fatehpur-Sikri-from-Delhi%2Fd804-9512P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=c82967bf6566a077f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=319695&clt=TD&from=api&nt=true",
+        "price": "$115.00",
+        "rounded_up_price": "$115",
+        "offer_type": "",
+        "title": "Private Taj Mahal Tour from Delhi by Express Train - All Inclusive",
+        "product_code": "9512P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/1f/97/3e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2FTaj-Mahal-and-Agra-Full-Day-Private-Guided-Tour-from-Delhi-by-Car%2Fd804-9512P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=bde05037044c31497&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=319695&clt=TD&from=api&nt=true",
+        "price": "$67.00",
+        "rounded_up_price": "$67",
+        "offer_type": "",
+        "title": "Private Taj Mahal Tour from Delhi by Car - All Inclusive",
+        "product_code": "9512P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/29/c3/c4.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2F1-Day-Trip-to-Agra-from-Delhi-by-Superfast-Train%2Fd804-28875P10%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=364829755fa0e1836&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=319695&clt=TD&from=api&nt=true",
+        "price": "$75.00",
+        "rounded_up_price": "$75",
+        "offer_type": "",
+        "title": "Private Day Tour of Taj Mahal and Agra Fort By Superfast Train - All Inclusive",
+        "product_code": "28875P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/73/3b.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-Delhi%2F11-Hour-Agra-Day-Tour-Sunrise-and-Sunset-of-Taj-Mahal%2Fd804-7482P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=1f9e16f11bd2da85a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=319695&clt=TD&from=api&nt=true",
+        "price": "$99.00",
+        "rounded_up_price": "$99",
+        "offer_type": "",
+        "title": "11-Hour Agra Day Tour: Sunrise and Sunset of Taj Mahal - All Inclusive",
+        "product_code": "7482P5",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/08/39/d9/19.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "tags": {},
+  "reviews": []
+}]
