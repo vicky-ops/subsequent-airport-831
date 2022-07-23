@@ -195,10 +195,12 @@ background-color:#29a075 ;
 }
 
 /* slider */
-#heading{
+.heading{
 margin-left: 70px;
 }
-
+.heading2{
+    margin-left: 200px;
+}
 
 
 .parent{
@@ -368,3 +370,7 @@ position: relative;
     font-size:smaller;
 }
 
+#lastpic>img{
+  margin-top: 100px;
+    width: 100%;
+}
