@@ -3,12 +3,21 @@
     padding:0;
     box-sizing: border-box;
 }
-
-#navigation{
-    width: 70%;
-    margin:auto;
-    /* border: 1px solid black; */
+body {
+    font-family: 'Poppins';font-size: 22px;
 }
+#navigation{
+    /* margin-top:50px; */
+    width: 70%;
+    margin:50px auto;
+}
+#navigation-hr{
+    width: 100%;
+    border-bottom: 3px solid gray;
+    margin-bottom: 50px;
+}
+/* <div id="navigation-hr"></div> */
+
 #navigation>img{
     width: 250px;
     margin-bottom: 10px;
@@ -27,3 +36,72 @@
     border-radius: 5px;
     border:2px solid black;
 }
+#bar+h4{
+    margin-top:5px;
+    font-size: 22px;
+}
+
+
+/* secure Checkout */
+#secure-checkout{
+    width:70%;
+    margin:auto;
+}
+#secure-checkout>div{
+    background-color: #EAFAF4;
+    padding:10px;
+    font-size:20px;
+    color:gray;
+    border-radius: 10px;
+    /* list-style: 50%; 
+    */
+}
+#secure-checkout>div>p{
+    margin: 10px;
+}
+
+/* left-right */
+#left-right{
+    width: 70%;
+    margin: auto;;
+    display: flex;
+}
+
+
+/* left */
+
+
+/* right */
+#review_right-top,
+#review_right-bottom{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+#review_right-top{
+    /* width:90%; */
+    width: 100%;
+    border:1px solid black;
+    padding:20px;
+}
+#review_right-bottom{
+    width: 100%;
+}
+/* #form_data_left{
+    width: 35%;
+    margin:auto;
+} */
+
+/* right */
+#review_right-top{
+    padding:20px;
+
+    width: 35%;
+    margin:auto;
+}
+
+
+/* chcked & unchecked */
+.checked{
+    background-color: black;
+}
+
