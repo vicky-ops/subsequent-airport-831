@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#navigation{
+    width: 70%;
+    margin:auto;
+    /* border: 1px solid black; */
+}
+#navigation>img{
+    width: 250px;
+    margin-bottom: 10px;
+}
+#navigation>div{
+    display: flex;
+    text-align: center;
+    gap:30px;
+    /* margin-left: 10%; */
+    justify-content: center;
+}
+/* #navigation>di */
+#bar{
+    width: 200px;
+    height: 12px;
+    border-radius: 5px;
+    border:2px solid black;
+}

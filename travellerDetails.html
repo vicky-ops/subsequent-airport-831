@@ -4,11 +4,141 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="./travellerDetails.js" defer></script>
+    <script src="./travellerDetails.js" type="module"></script>
     <link rel="stylesheet" href="./travellerDetails.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <title>Traveller Details</title>
 </head>
 <body>
-    <h1>Traveller Details</h1>
+    <div id="navigation">
+    </div>
+    <div id="secure-checkout">
+        <h1>Secure Checkout</h1>
+        <div>
+            <p>Checkout securely - it takes only a few minutes. </p>
+        </div>
+    </div>
+    <div id="form_data_left">
+        <div id="contact_data" class="row g-3 align-items-center">
+            <h1>Contact Details</h1>
+            <div>
+                <h3>Email<sup>*</sup></h3>
+                <h3>Phone Number<sup>*</sup></h3>
+            </div>
+            <div>
+                <p id="email_id"></p>
+                <input type="tel">
+            </div>
+            <div>
+                <input type="checkbox"  id="checkContact">
+                <label for="checkContact">You will receive text message updates about your booking.</label>
+                
+            </div>
+           
+        </div>
+       
+        <div id="traveller_data" class="row g-3 align-items-center">
+            <h1>Traveller Details</h1>
+            <h3>Lead Traveller</h3>
+            <div>
+                <h3>First Name<sup>*</sup></h3>
+                <h3>Last Name<sup>*</sup></h3>
+            </div>
+            <div>
+                <input type="text" placeholder="" id="firstName">
+                <input type="text" placeholder="" id="lastName">
+            </div>
+        </div>
+
+        <div id="tour_data" class="row g-3 align-items-center">
+            <h1>Tour specifics</h1>
+            <h3>Hotel Pickup <sup>*</sup></h3>
+            <div>
+                <label for="">The Provider offers pickup from select hotels</label>
+                <input type="text" placeholder="Enter your pickup location">
+            </div>
+            <div>
+                <label for="">Tour/Activity Langauge</label>
+                <option value="select_tour_guide">
+                    <section>English-Guide</section>
+                    <section>German-Guide</section>
+                    <section>Spanish-Guide</section>
+                    <section>Chinese-Guide</section>
+                    <section>Japanse-Guide</section>
+                    <section>Russians-Guide</section>
+                </option>
+            </div>
+        </div>
+
+        <div id="promo_code" class="row g-3 align-items-center">
+            <h1>Promo Code</h1>
+           <a href="#">Enter Promo Code</a>
+        </div>
+
+        <button id="handleNext">Next</button>
+    </div>
+
+
+
+    <!-- right data -->
+    <div id="review_right-top">
+        <h1>Review Order Details</h1>
+        <div>
+            <!-- from local Storage -->
+            <img src="" alt="" id="tour_poster">
+            <p id="tour_details"></p>
+        </div>
+        <h4>Booking Fee<span></span></h4>
+        <h4>Subtotal<span></span></h4>
+        <h3>Total<span></span></h3>
+    </div>
+
+    <div id="review_right-bottom">
+        <h1>Book with confidence</h1>
+        <div>
+            <div class="little-card">
+                <!-- link for icon -->
+                <div></div>
+                <!-- h3 and p -->
+                <div>
+                    <h3>Lowest price quarantee</h3>
+                    <p>Find it cheaper? We'll refund the difference</p>
+                </div>
+            </div>
+
+            <div class="little-card">
+                <!-- link for icon -->
+                <div></div>
+                <!-- h3 and p -->
+                <div>
+                    <h3>Privacy protection</h3>
+                    <p>We use SSL encryption to keep your data secure</p>
+                </div>
+            </div>
+
+            <div class="little-card">
+                <!-- link for icon -->
+                <div></div>
+                <!-- h3 and p -->
+                <div>
+                    <h3>27/7 global support</h3>
+                    <p>Get the answers you need, when you need them</p>
+                </div>
+            </div>
+
+            <div class="little-card">
+                <!-- link for icon -->
+                <div></div>
+                <!-- h3 and p -->
+                <div>
+                    <h3>Give us a call</h3>
+                    <p>We’d be happy to help you out with your booking</p>
+                    <p>Call now: 000-0800-100-6999</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    <p>© 2022 TripAdvisor LLC All rights reserved. Tripadvisor Terms of Use and Privacy Policy.</p>
 </body>
 </html>
