@@ -24,65 +24,73 @@
             <p>Checkout securely - it takes only a few minutes. </p>
         </div>
     </div>
-    <div id="left-right" style="margin-left:300px">
+    <div id="left-right">
     <div id="form_data_left">
-        <h2 style="margin-left:20px">Contact Details</h2>
-        <div id="contact_data" >
-            <div id="contact">
-                <p>Email</p>
-                 <input type="email" placeholder="Enter Email" id="email_id" required>
-                 <p class="mob">Mobile Number</p>
-                 <input type="number" placeholder="Enter Mobile Number" id="mobile" required>
-                 
+        <h1>Contact Details</h1>
+        <div id="contact_data">
+            <div>
+                <h3>Email<sup>*</sup></h3>
+                <h3>Phone Number<sup>*</sup></h3>
             </div>
-       <div class="check">
-        <input type="checkbox"  id="checkContact">
-        <p>You will receive text message updates about your booking.</p>
-       </div>
-           
-            
+            <div>
+                <p id="email_id"></p>
+                <input type="tel">
+            </div>
+            <div>
+                <input type="checkbox"  id="checkContact">
+                <label for="checkContact">You will receive text message updates about your booking.</label>
+                
+            </div>
            
         </div>
        
-        <div id="traveller_data" class="row g-3 align-items-center" >
-            <h3 style="margin-left:20px">Traveller Details</h3>
-            <h4 style="margin-left:20px">Lead Traveller</h4>
-            <div id="td">
-                <h5>First Name<sup>*</sup></h5>
-                <h5>Last Name<sup>*</sup></h5>
+        <div id="traveller_data" class="row g-3 align-items-center">
+            <h1>Traveller Details</h1>
+            <h3>Lead Traveller</h3>
+            <div>
+                <h3>First Name<sup>*</sup></h3>
+ls                <h3>Last Name<sup>*</sup></h3>
             </div>
             <div>
                 <input type="text" placeholder="" id="firstName">
                 <input type="text" placeholder="" id="lastName">
             </div>
-            <h5 class="dob">DOB</h5>
-             <input type="text"  id="dob">
         </div>
-     
-         <h4 style="margin-left:20px ; margin-top: 30px;">Lead Traveller</h4>
-            <div id="td2">
-                <h5>First Name<sup>*</sup></h5>
-                <h5>Last Name<sup>*</sup></h5>
+
+        <div id="tour_data" class="row g-3 align-items-center">
+            <h1>Tour specifics</h1>
+            <h3>Hotel Pickup <sup>*</sup></h3>
+            <div>
+                <label for="">The Provider offers pickup from select hotels</label>
+                <input type="text" placeholder="Enter your pickup location">
             </div>
             <div>
-                <input type="text" placeholder="" id="firstName">
-                <input type="text" placeholder="" id="lastName">
+                <label for="">Tour/Activity Langauge</label>
+                <option value="select_tour_guide">
+                    <section>English-Guide</section>
+                    <section>German-Guide</section>
+                    <section>Spanish-Guide</section>
+                    <section>Chinese-Guide</section>
+                    <section>Japanse-Guide</section>
+                    <section>Russians-Guide</section>
+                </option>
             </div>
-            <h5 class="dob2">DOB</h5>
-             <input type="text"  id="dob">
-          <h4>Promo Code</h4>
-          <hr>
-          <u><p style="font-size: 20px;">Enter Promo Code</p></u>
-          <button style="border-radius:20px; margin: auto ; font-size: 20px; margin-top: 30px;">Next</button>
-  </div>
- 
-  
-    <div id="data_right" >
+        </div>
+
+        <div id="promo_code" class="row g-3 align-items-center">
+            <h1>Promo Code</h1>
+           <a href="#">Enter Promo Code</a>
+        </div>
+
+        <button id="handleNext">Next</button>
+    </div>
+
+    <div id="data_right">
 
     <!-- right data -->
-    <div id="review_right-top" style="border:1px solid rgb(0, 0, 0) ;">
-        <h4>Review Order Details</h4>
-        <div class="img">
+    <div id="review_right-top">
+        <h1>Review Order Details</h1>
+        <div>
             <!-- from local Storage -->
             <img src="" alt="" id="tour_poster">
             <p id="tour_details"></p>
@@ -93,15 +101,14 @@
     </div>
 
     <div id="review_right-bottom">
-        <h3>Book with confidence</h3>
-        <hr>
+        <h1>Book with confidence</h1>
         <div>
             <div class="little-card">
                 <!-- link for icon -->
                 <div></div>
                 <!-- h3 and p -->
-                <div class="price">
-                  <i id="icon" class="fa-solid fa-wallet"></i>  <h3>Lowest price quarantee</h3>
+                <div>
+                    <h3>Lowest price quarantee</h3>
                     <p>Find it cheaper? We'll refund the difference</p>
                 </div>
             </div>
@@ -110,8 +117,8 @@
                 <!-- link for icon -->
                 <div></div>
                 <!-- h3 and p -->
-                <div class="price">
-                   <i  id="icon" class="fa-solid fa-lock"></i><h3>Privacy protection</h3>
+                <div>
+                    <h3>Privacy protection</h3>
                     <p>We use SSL encryption to keep your data secure</p>
                 </div>
             </div>
@@ -120,8 +127,8 @@
                 <!-- link for icon -->
                 <div></div>
                 <!-- h3 and p -->
-                <div class="price">
-                  <i id="icon" class="fa-solid fa-headphones"></i>  <h3>27/7 global support</h3>
+                <div>
+                    <h3>27/7 global support</h3>
                     <p>Get the answers you need, when you need them</p>
                 </div>
             </div>
@@ -130,8 +137,8 @@
                 <!-- link for icon -->
                 <div></div>
                 <!-- h3 and p -->
-                <div class="price">
-                   <i id="icon" class="fa-solid fa-phone"></i> <h3>Give us a call</h3>
+                <div>
+                    <h3>Give us a call</h3>
                     <p>We’d be happy to help you out with your booking</p>
                     <p>Call now: 000-0800-100-6999</p>
                 </div>
@@ -141,9 +148,6 @@
     </div>
 </div>
 </div>
-
-
-
     <p>© 2022 TripAdvisor LLC All rights reserved. Tripadvisor Terms of Use and Privacy Policy.</p>
 </body>
 </html>
