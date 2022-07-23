@@ -71,3 +71,17 @@ var splide = new Splide( '.sp2', {
   } );
   
   splide.mount();
+
+
+ document.getElementById("forum").addEventListener("click",myfun)
+
+
+function myfun(){
+   window.location.href= "./pages/forum.html"
+}
+
+document.getElementById("tod").addEventListener("click",searchbar)
+
+function searchbar(){
+    window.location.href="./pages/searchbar.html"
+}
