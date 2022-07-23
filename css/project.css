@@ -333,6 +333,7 @@ margin: auto;
     top: 350px;
    left: 25%;
    color: white;
+   
 }
 
 #bigbox{
@@ -361,14 +362,14 @@ position: relative;
    font-size:x-large;
   /* border: 1px solid black; */
 }
-#inner>button{
-    height: 30px;;
+/* #inner>button{
+    height: 30px;
     width: 150px;
-    border-radius: 4px;
+    border-radius: 10px;
     text-align: center;
     margin-left: 50px;
     font-size:smaller;
-}
+} */
 
 #lastpic>img{
   margin-top: 100px;

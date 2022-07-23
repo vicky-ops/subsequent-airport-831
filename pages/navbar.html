@@ -5,55 +5,55 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="../css/navbar.css">
   </head>
 
   
   <body>
     
-    <div id="navbar">
+    <div id="navbar111">
         
       
       </div>
 
   </body>
 </html>
-<script src="./navbar.js" type="module"></script>
-<script>
+<script src="../components/navbar.js" type="module"></script>
+<!-- <script>
  
 function openForm() {
-    document.getElementById("popupForm").style.display = "block";
+    document.getElementById("popupForm111").style.display = "block";
     
   }
   function closeForm() {
-    document.getElementById("popupForm").style.display = "none";
+    document.getElementById("popupForm111").style.display = "none";
   }
 
 
   function openForm2() {
     closeForm();
-    document.getElementById("popupForm2").style.display = "block";
+    document.getElementById("popupForm2111").style.display = "block";
   }
   function closeForm2() {
-    document.getElementById("popupForm2").style.display = "none";
+    document.getElementById("popupForm2111").style.display = "none";
   }
 
 
   async function mainfunc2(e){
     e.preventDefault();
     let signupdata={
-      name:document.getElementById("email2").value,
-      email:document.getElementById("email2").value,
-      password:document.getElementById("pass2").value,
-      username: document.getElementById("email2").value,
-      mobile:document.getElementById("email2").value,
-      description:document.getElementById("email2").value,
+      name:document.getElementById("email2111").value,
+      email:document.getElementById("email2111").value,
+      password:document.getElementById("pass2111").value,
+      username: document.getElementById("email2111").value,
+      mobile:document.getElementById("email2111").value,
+      description:document.getElementById("email2111").value,
     };
     signupdata=JSON.stringify(signupdata);
     let data1={
-      firstname:document.getElementById("firstname").value,
-      secondname:document.getElementById("secondname").value,
-      email:document.getElementById("email2").value,
+      firstname:document.getElementById("firstname111").value,
+      secondname:document.getElementById("secondname111").value,
+      email:document.getElementById("email2111").value,
       
     };
     localStorage.setItem("users",JSON.stringify(data1));
@@ -76,14 +76,14 @@ function openForm() {
       
       let image1=document.createElement("img");
       image1.src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/77/ae/default-avatar-2020-2.jpg?w=100&h=-1&s=1";
-      let fourth=document.getElementById("newsign");
+      let fourth=document.getElementById("newsign111");
       image1.style="height:40px;width:40px;border-radius:20px;margin-top:10px;margin-left:10px";
       // fourth.innerHTML="";
       fourth.innerHTML="";
-      let fourth2=document.getElementById("newsign2");
+      let fourth2=document.getElementById("newsign2111");
       fourth2.append(image1);
       image1.addEventListener("click", function() {
-      window.location.href="navdata.html";
+      window.location.href="./pages/navdata.html";
     });
     }
     else{
@@ -93,8 +93,8 @@ function openForm() {
   async function mainfunc1(e){
     e.preventDefault();
     let logindata={
-      username:document.getElementById('email1').value,
-      password:document.getElementById('pass1').value,
+      username:document.getElementById('email1111').value,
+      password:document.getElementById('pass1111').value,
     };
     logindata=JSON.stringify(logindata);
     let loginapilink='https://masai-api-mocker.herokuapp.com/auth/login';
@@ -114,19 +114,20 @@ function openForm() {
       
       let image1=document.createElement("img");
       image1.src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/77/ae/default-avatar-2020-2.jpg?w=100&h=-1&s=1";
-      let fourth=document.getElementById("newsign");
+      let fourth=document.getElementById("newsign111");
       image1.style="height:40px;width:40px;border-radius:20px;margin-top:10px;margin-left:10px";
       // fourth.innerHTML="";
       fourth.innerHTML="";
-      let fourth2=document.getElementById("newsign2");
+      let fourth2=document.getElementById("newsign2111");
       fourth2.append(image1);
       image1.addEventListener("click", function() {
-        window.location.href="navdata.html";
+        window.location.href="./pages/navdata.html";
       });
 
     }
     else{
       alert("Invalid Username or Password");
     }
-  }
+  } -->
 </script>
+
