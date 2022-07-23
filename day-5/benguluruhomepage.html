@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./Homepage.css" />
+   
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.7/dist/css/themes/splide-skyblue.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+
+
+
+  </head>
+  <body onload="show()">
+ <div id="allbody">
+
+ <div id="navbar">
+
+  
+  <a href=""><img src="https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg" alt=""></a>
+  
+  
+    <input style="padding-left:90px;" type="search" id="Search" placeholder="Search">
+    <i id='icon' class="fa-solid fa-magnifying-glass"></i>
+  <i id="pen" class="fa-solid fa-pen"></i>
+ <p>Review</p>
+
+<i class="fa-solid fa-heart" id="heart"></i>
+ <p>Trips</p>
+
+  <i class="fa-solid fa-bell" id="heart"></i>
+  <p>Alert</p>
+
+  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/ea/default-avatar-2020-63.jpg?w=100&h=-1&s=1" alt="" style="width:40px; border-radius: 100%; margin-left: 20px; margin-top: 15px;" >
+   <i class="fa-solid fa-cart-shopping" id="basket"></i>
+   <p>Basket</p>
+</div>
+
+<hr>
+<br>
+<hr>
+  <div id="top">
+    <div id="all">
+      <h2 style="margin-left:70px; margin-bottom: -50px; font-size: 35px;">Places to Visit in Benguluru</h2>
+
+      <div id="main">
+        <h3 style="margin-left:70px; margin-top:100px; margin-bottom: -40px;">Popular things to do</h3>
+        <div class="parent">
+          <!-- for left clic -->
+          <div class="leftarrow" onclick="moveleft()">
+            <button>&lt;</button>
+          </div>
+
+          <!-- for child div -->
+          <div class="child" id="c1">
+            <a href="./dispalydata.html">
+              <img
+                src="https://media.tacdn.com/media/attractions-splice-spp-360x240/09/db/89/31.jpg"
+                alt=""
+              />
+              <h1>Half-day Tours</h1>
+            </a>
+          </div>
+
+          <div class="child" id="c2">
+            <a href="./dispalydata.html">
+              <img
+                src="https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/85/6a.jpg"
+                alt=""
+              />
+              <h1>Culutural Tours</h1>
+            </a>
+          </div>
+
+          <div class="child" id="c3">
+            <a href="./dispalydata.html">
+              <img
+                src="https://media-cdn.tripadvisor.com/media/photo-m/1280/23/a2/b1/90/front-view-of-temple.jpg"
+                alt=""
+              />
+              <h1>Shoping Malls</h1>
+            </a>
+          </div>
+
+          <div class="child" id="c4">
+            <a href="./dispalydata.html">
+              <img
+                src="https://media.tacdn.com/media/attractions-splice-spp-360x240/06/d7/ba/ea.jpg"
+                alt=""
+              />
+              <h1>Day Trip</h1>
+            </a>
+          </div>
+
+          <div class="child" id="c5">
+            <a href="./dispalydata.html">
+              <img
+                src="https://media.tacdn.com/media/attractions-splice-spp-360x240/08/cf/36/6d.jpg"
+                alt=""
+              />
+              <h1>Private Sightseeing Tours</h1>
+            </a>
+          </div>
+
+          <div class="child" id="c6">
+            <a href="./dispalydata.html">
+              <img
+                src="https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/2e/f9.jpg"
+                alt=""
+              />
+              <h1>Points of Interest & Landmarks</h1>
+            </a>
+          </div>
+
+          <div class="child" id="c7">
+            <a href="./dispalydata.html">
+              <img
+                src="https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/2e/fc.jpg"
+                alt=""
+              />
+              <h1>City Tours</h1>
+            </a>
+          </div>
+
+          <div class="child" id="c8">
+            <a href="./dispalydata.html"
+              ><img
+                src="https://media.tacdn.com/media/attractions-splice-spp-360x240/07/a5/40/b9.jpg"
+                alt=""
+              />
+              <h1>Bus Tours</h1></a
+            >
+          </div>
+
+          <!-- for right click -->
+          <div class="rightarrow" onclick="moveright()">
+            <button>&gt;</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+    <div class="container">
+      <h4>Ways to tour Bengaluru</h4>
+      <p>Book these experiences for a close-up look at Bengaluru.</p>
+      <a href="./dispalydata.html"> <h6>See more</h6></a>
+      <section class="splide sp2" aria-label="Splide Basic HTML Example">
+        <div class="splide__track"  >
+          <ul class="splide__list"  >
+            <li class="splide__slide"  >
+              <div class="box" >
+                <div class="product-img" >
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fe/80/1b/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Royal Mysore tour from Bangalore in private car with guide
+                      and lunch
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $135.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/9d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore Through the Ages - Full-Day Tour with Lunch
+                    </h5></a
+                  >
+                  <p>Bus Tour</p>
+                  <h7>from $117.34 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/14/d1/8a/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      2 days Private tour of Hampi world heritage site from
+                      Bangalore by car
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $330.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/2f/c7/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Full-Day Treasures of Nandi Hiking Adventure from
+                      Bengaluru
+                    </h5></a
+                  >
+                  <p>Full-day Tours</p>
+                  <h7>from $170.67 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a1/cb/f1/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Spectacular architecture & mystery at Talakadu &
+                      Somnathpur- Tour from
+                    </h5></a
+                  >
+                  <p>Day Trips</p>
+                  <h7>from $120.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/97/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Best of Bangalore Private Tour</h5></a
+                  >
+                  <p>Half-day Tours</p>
+                  <h7>from $99.00 per adult</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box" >
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/fd/53/24/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bengaluru Pete City Market Half-Day Walking Tour</h5></a
+                  >
+                  <p>Private and Luxury</p>
+                  <h7>from $58.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box" style="height: 400px">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/27/12/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore city tour with a guide in private car and lunch
+                    </h5></a
+                  >
+                  <p>City Tours</p>
+                  <h7>from $95.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box" style="height: 400px">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/71/5d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                   
+                    />
+                    <h5>
+                      Bangalore: Traditional Cooking Classes & Dinner with Chef
+                      Family
+                    </h5></a
+                  >
+                  <p>Cooking Classes</p>
+                  <h7>from $53.00 per adult </h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box" style="height: 400px">
+                <div class="product-img">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/f7/21/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bangalore Walking Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $11.56 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+
+            <li class="splide__slide">
+              <div class="box" style="height: 400px">
+                <div class="product-img">
+                  <a href=".html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/60/b6/1c/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Old Bangalore town_Pettah walk</h5></a
+                  >
+                  <p>City Tour</p>
+                  <h7>from $55.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <hr />
+
+    <div class="container1">
+      <h4>Recommended for You</h4>
+      <p>Tours and activities tailored to your interests.</p>
+      <a href="./dispalydata.html"> <h6>See more</h6></a>
+      <section class="splide sp3" aria-label="Splide Basic HTML Example">
+        <div class="splide__track" >
+          <ul class="splide__list">
+           
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/9d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore Through the Ages - Full-Day Tour with Lunch
+                    </h5></a
+                  >
+                  <p>Bus Tour</p>
+                  <h7>from $117.34 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/14/d1/8a/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      2 days Private tour of Hampi world heritage site from
+                      Bangalore by car
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $330.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/2f/c7/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Full-Day Treasures of Nandi Hiking Adventure from
+                      Bengaluru
+                    </h5></a
+                  >
+                  <p>Full-day Tours</p>
+                  <h7>from $170.67 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a1/cb/f1/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Spectacular architecture & mystery at Talakadu &
+                      Somnathpur- Tour from
+                    </h5></a
+                  >
+                  <p>Day Trips</p>
+                  <h7>from $120.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/97/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Best of Bangalore Private Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $99.00 per adult</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/fd/53/24/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bengaluru Pete City Market Half-Day Walking Tour</h5></a
+                  >
+                  <p>Private and Luxury</p>
+                  <h7>from $58.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/27/12/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore city tour with a guide in private car and lunch
+                    </h5></a
+                  >
+                  <p>City Tours</p>
+                  <h7>from $95.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/71/5d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore: Traditional Cooking Classes & Dinner with Chef
+                      Family
+                    </h5></a
+                  >
+                  <p>Cooking Classes</p>
+                  <h7>from $53.00 per adult </h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/f7/21/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bangalore Walking Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $11.56 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href=".html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/60/b6/1c/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Old Bangalore town_Pettah walk</h5></a
+                  >
+                  <p>Walking Tour</p>
+                  <h7>from $55.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <hr />
+ 
+         
+   <div id="maincontainer">
+     <h2>Top Attractions in Benguluru </h2>
+    <div id="main4">
+
+    </div>
+
+</div>
+<button id="btn">Seemore</button>
+<hr>
+
+
+
+<div id="advertise">
+  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/43/a7/ce/caption.jpg?w=300&h=-1&s=1"
+   alt="">
+   <span id="o1">The both of you could use a trip</span>
+   <span id="t2">Plan the holiday you deserve with our app</span>
+   <button id="btn1">Download the app</button>
+</div>
+
+
+
+ <div class="container1">
+      <h4 style="margin-bottom:-40px; margin-top:100px">Half-day Tours</h4>
+     
+      <a href="./dispalydata.html"> <h6>See more</h6></a>
+      <section class="splide sp4" aria-label="Splide Basic HTML Example">
+        <div class="splide__track" style="margin: 10px">
+          <ul class="splide__list">
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fe/80/1b/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Royal Mysore tour from Bangalore in private car with guide
+                      and lunch
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $135.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/9d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore Through the Ages - Full-Day Tour with Lunch
+                    </h5></a
+                  >
+                  <p>Bus Tour</p>
+                  <h7>from $117.34 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/14/d1/8a/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      2 days Private tour of Hampi world heritage site from
+                      Bangalore by car
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $330.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/2f/c7/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Full-Day Treasures of Nandi Hiking Adventure from
+                      Bengaluru
+                    </h5></a
+                  >
+                  <p>Full-day Tours</p>
+                  <h7>from $170.67 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a1/cb/f1/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Spectacular architecture & mystery at Talakadu &
+                      Somnathpur- Tour from
+                    </h5></a
+                  >
+                  <p>Day Trips</p>
+                  <h7>from $120.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/97/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Best of Bangalore Private Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $99.00 per adult</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/fd/53/24/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bengaluru Pete City Market Half-Day Walking Tour</h5></a
+                  >
+                  <p>Private and Luxury</p>
+                  <h7>from $58.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/27/12/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore city tour with a guide in private car and lunch
+                    </h5></a
+                  >
+                  <p>City Tours</p>
+                  <h7>from $95.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/71/5d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore: Traditional Cooking Classes & Dinner with Chef
+                      Family
+                    </h5></a
+                  >
+                  <p>Cooking Classes</p>
+                  <h7>from $53.00 per adult </h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/f7/21/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bangalore Walking Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $11.56 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href=".html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/60/b6/1c/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Old Bangalore town_Pettah walk</h5></a
+                  >
+                  <p>Walking Tour</p>
+                  <h7>from $55.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <hr>
+
+<div id="advertise">
+  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f7/1d/4d/caption.jpg?w=1000&h=-1&s=1"
+   alt="">
+   <span id="o1">Get out there</span>
+   <span id="t2">Best of the Best tours,attractions & activities you won't to miss</span>
+   <button id="btn1">See the List</button>
+</div>
+
+
+
+ <div class="container1">
+      <h4 style="margin-bottom:-40px; margin-top:100px">Cultural Tours</h4>
+     
+      <a href="./dispalydata.html"> <h6>See more</h6></a>
+      <section class="splide sp5" aria-label="Splide Basic HTML Example">
+        <div class="splide__track" style="margin: 10px">
+          <ul class="splide__list">
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/fe/80/1b/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Royal Mysore tour from Bangalore in private car with guide
+                      and lunch
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $135.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/9d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore Through the Ages - Full-Day Tour with Lunch
+                    </h5></a
+                  >
+                  <p>Bus Tour</p>
+                  <h7>from $117.34 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/14/d1/8a/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      2 days Private tour of Hampi world heritage site from
+                      Bangalore by car
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $330.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/2f/c7/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Full-Day Treasures of Nandi Hiking Adventure from
+                      Bengaluru
+                    </h5></a
+                  >
+                  <p>Full-day Tours</p>
+                  <h7>from $170.67 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a1/cb/f1/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Spectacular architecture & mystery at Talakadu &
+                      Somnathpur- Tour from
+                    </h5></a
+                  >
+                  <p>Day Trips</p>
+                  <h7>from $120.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/97/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Best of Bangalore Private Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $99.00 per adult</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/fd/53/24/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bengaluru Pete City Market Half-Day Walking Tour</h5></a
+                  >
+                  <p>Private and Luxury</p>
+                  <h7>from $58.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/27/12/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore city tour with a guide in private car and lunch
+                    </h5></a
+                  >
+                  <p>City Tours</p>
+                  <h7>from $95.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/71/5d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore: Traditional Cooking Classes & Dinner with Chef
+                      Family
+                    </h5></a
+                  >
+                  <p>Cooking Classes</p>
+                  <h7>from $53.00 per adult </h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/f7/21/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bangalore Walking Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $11.56 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href=".html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/60/b6/1c/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Old Bangalore town_Pettah walk</h5></a
+                  >
+                  <p>Walking Tour</p>
+                  <h7>from $55.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+
+<div id="advertise1">
+  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f7/1d/4d/caption.jpg?w=1000&h=-1&s=1"
+   alt="">
+   <span id="o1">See something you love?Click the heart to save it</span>
+   <span id="t2">And see all your saved travel ideas on a map</span>
+   <button id="btn1">Get Started</button>
+</div>
+
+
+<div class="container1">
+      <h4 style="margin-bottom:-40px; margin-top:100px">Outdoor Activities</h4>
+     
+      <a href="./dispalydata.html"> <h6>See more</h6></a>
+      <section class="splide sp6" aria-label="Splide Basic HTML Example">
+        <div class="splide__track" style="margin: 10px">
+          <ul class="splide__list">
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2e/14/b7/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                     Bangalore Running Tour with Breakfast
+                    </h5></a
+                  >
+                  <p>Private Sightseeing Tours</p>
+                  <h7>from $135.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5a/0d/dd/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                     Bandipur Sanctuary Tigers & Elephants Tour with Lunch
+                    </h5></a
+                  >
+                  <p>Bus Tour</p>
+                  <h7>from $117.34 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b7/b2/95/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                     Guided Walk through Bengaluru's Ejipura Slums
+                    </h5></a
+                  >
+                  <p>Car Tour</p>
+                  <h7>from $330.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/25/1e/69/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Women on Adventure
+                    </h5></a
+                  >
+                  <p>Full-day Tours</p>
+                  <h7>from $170.67 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a1/cb/f1/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Spectacular architecture & mystery at Talakadu &
+                      Somnathpur- Tour from
+                    </h5></a
+                  >
+                  <p>Day Trips</p>
+                  <h7>from $120.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/f1/97/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Best of Bangalore Private Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $99.00 per adult</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/fd/53/24/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bengaluru Pete City Market Half-Day Walking Tour</h5></a
+                  >
+                  <p>Private and Luxury</p>
+                  <h7>from $58.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/27/12/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore city tour with a guide in private car and lunch
+                    </h5></a
+                  >
+                  <p>City Tours</p>
+                  <h7>from $95.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/71/5d/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>
+                      Bangalore: Traditional Cooking Classes & Dinner with Chef
+                      Family
+                    </h5></a
+                  >
+                  <p>Cooking Classes</p>
+                  <h7>from $53.00 per adult </h7>
+                </div>
+              </div>
+            </li>
+            <li class="splide__slide">
+              <div class="box1">
+                <div class="product-img1">
+                  <a href="./dispalydata.html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/f7/21/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Bangalore Walking Tour</h5></a
+                  >
+                  <p>Walking Tours</p>
+                  <h7>from $11.56 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+
+            <li class="splide__slide">
+              <div class="box1" style="height: 400px">
+                <div class="product-img1">
+                  <a href=".html"
+                    ><img
+                      src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/60/b6/1c/caption.jpg?w=300&h=300&s=1"
+                      alt=""
+                    />
+                    <h5>Old Bangalore town_Pettah walk</h5></a
+                  >
+                  <p>Walking Tour</p>
+                  <h7>from $55.00 per adult (price varies by group size)</h7>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+
+    <div id="faq">
+   <h1>Frequently Asked Question About Benguluru</h1>
+    </div>
+<div id="six">
+     <div id="bhai">
+
+                <div class="six1">
+                    <div class="drop" id="myid">
+                        <p>What are the top attractions to visit in Bengaluru?</p>
+                        
+                            <i  class="fa fa-angle-down" style="font-size:36px"></i>
+                        
+                    
+                    </div>
+                    <div class="kaka"></div>
+                </div>
+                <div class="six2">
+                    <div class="drop" id="myid1">
+                        <p>What are the best outdoor activities in Bengaluru?</p>
+                        
+                            <i  class="fa fa-angle-down" style="font-size:36px"></i>
+                    </div>
+                    <div class="kaka1"></div>
+                </div>
+        
+                <div class="six3">
+                    <div class="drop" id="myid2">
+                        <p>What are the best day trips from Bengaluru?</p>
+                        
+                            <i  class="fa fa-angle-down" style="font-size:36px"></i>
+                        
+                    
+                    </div>
+                    <div class="kaka2"></div>
+                </div>
+        
+                <div class="six4">
+                    <div class="drop" id="myid3">
+                        <p>Meet The Team</p>
+                        
+                        <i  class="fa fa-angle-down" style="font-size:36px"></i>
+                    
+                    </div>
+                    <div class="kaka3"></div>
+                </div>
+        
+                <div class="six5">
+                    <div class="drop" id="myid4">
+                        <p>What are the most popular things to do in Bengaluru with children?</p>
+                        
+                            <i  class="fa fa-angle-down" style="font-size:36px"></i>
+                        
+                    
+                    </div>
+                    <div class="kaka4"></div>
+                </div>
+        
+                
+        
+
+
+</div>
+</div>
+</div>
+</div>
+  </body>
+</html>
+<script src="./benguluruhome.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.7/dist/js/splide.min.js"></script>
+<script>
+  var splide = new Splide(".sp3", {
+    type: "loop",
+    perPage: 3,
+    perMove: 3,
+  });
+
+  splide.mount();
+</script>
+<script>
+  var splide = new Splide(".sp2", {
+    type: "loop",
+    perPage: 3,
+    perMove: 3,
+  });
+
+  splide.mount();
+</script>
+<script>
+  var splide = new Splide(".sp4", {
+    type: "loop",
+    perPage: 3,
+    perMove: 3,
+  });
+
+  splide.mount();
+</script>
+
+<script>
+  var splide = new Splide(".sp5", {
+    type: "loop",
+    perPage: 3,
+    perMove: 3,
+  });
+
+  splide.mount();
+</script>
+<script>
+  var splide = new Splide(".sp6", {
+    type: "loop",
+    perPage: 3,
+    perMove: 3,
+  });
+
+  splide.mount();
+</script>

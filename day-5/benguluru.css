@@ -1,0 +1,326 @@
+*{
+   color: black;
+    /* margin: 0px;
+    padding: 0px;
+    */
+
+}
+#main3{
+   width: 100%;
+ margin: auto;
+ color: white;
+}
+#main3>div{
+   
+    width: 1200px;
+   display: flex;
+    height: 450px;
+margin-top: 50px;
+
+
+    
+}
+#main3>div img{
+    width: 350px;
+  height: 95%;
+}
+#divname{
+    /* border: 2px solid blue; */
+    width: 800px;
+}
+#divname h2,h3{
+    margin-bottom: 10px;
+   font-weight: bold;
+    height: 20px;
+  
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+p{
+    line-height: 20px;
+     
+    margin-left: 20px;
+}
+#Div2>p{
+    line-height: 20px;
+    margin-left: -5px;
+}
+#Div2{
+   
+    height: 150px;
+    width: 180px;
+    line-height: 0px;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left:  10px;
+    text-align: center;
+}
+button{
+ background-color: rgb(233, 233, 17);
+ border-radius: 20px;
+ width: 150px;
+ height: 40px;
+}
+
+
+#sidebar{
+   /* border: 2px solid red; */
+   height: auto;
+   margin-top: 50px;
+    width: 300px;
+}
+#navbar{
+    width: 100%;
+    height: 70px;
+    /* border: 2px solid black; */
+    margin-bottom: 40px;
+   display: flex;
+   margin-top: 50px;
+  
+}
+#navbar>img{
+    
+    cursor: pointer;
+    width: 300px;
+    margin-top: 10px;
+    height: 40px;
+    
+}
+input{
+     margin-top: 10px;
+    width: 400px;
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 50px;
+    font-size: 20px;
+    position: relative;
+    background-color: rgb(248, 246, 246);
+    padding:0 50px  auto 20px ;
+}
+
+#icon{
+  position:absolute;
+ left: 430px;
+ top: 63px;
+ width: 30px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+#pen{
+  margin-left: 100px;
+ font-size: 20px;
+ margin-top:15px;
+ cursor: pointer;
+}
+#pen+p{
+  margin-left: 9px;
+  font-size: 20px;
+  margin-top: 25px;
+}
+#heart{
+  margin-left: 50px;
+ font-size: 20px;
+ margin-top: 15px;
+ cursor: pointer;
+}
+#heart+p{
+  margin-left: 9px;
+  font-size: 20px;
+  margin-top: 25px;
+}
+#basket{
+  margin-left: 10px;
+ font-size: 20px;
+ margin-top: 15px;
+ cursor: pointer;
+}
+#basket+p{
+  margin-left: 9px;
+  font-size: 20px;
+  margin-top:25px;
+}
+
+
+#all{
+  display: flex;
+    width: 100%;
+        margin: auto;
+}
+#six{
+    display: flex;
+    width:100%;
+    height:600px;
+    /* border:1px solid red; */
+    
+    
+}
+#six>#bhai{
+    /* border:1px solid red; */
+    margin-left: 0px;
+    width:300px;
+    margin-top: 50px;
+  cursor: pointer;
+}
+#interview{
+    margin-left: 270px;
+    font-family: 'Louis george cafe', sans-serif;
+    margin-top: 80px;
+    color: #333;
+    border: 1px none #000;
+    font-family: Retroica, sans-serif;
+    font-size: 38px;
+    line-height: 36px;
+    
+    color: #333;
+    font-weight: bolder;
+}
+#six>#bhai>.six1{
+    /* border:1px solid red; */
+    /* margin-left: 270px; */
+    width:290px;
+    margin-top: 60px;
+     height: 50px;
+     
+}
+#six>#bhai>.six2{
+    /* border:1px solid red; */
+    /* margin-left: 270px; */
+   width:290px;
+    margin-top: 60px;
+     height: 50px;
+    
+    
+}
+#six>#bhai>.six3{
+    /* border:1px solid red; */
+    /* margin-left: 270px; */
+    width:290px;
+    margin-top: 60px;
+     height: 50px;
+    
+
+    
+}
+#six>#bhai>.six4{
+    /* border:1px solid red; */
+    /* margin-left: 270px; */
+   width:290px;
+    margin-top: 60px;
+     height: 50px;
+    
+    
+}
+#six>#bhai>.six5{
+    /* border:1px solid red; */
+    /* margin-left: 270px; */
+    width:290px;
+    margin-top: 60px;
+     height: 60px;
+    
+    
+}
+#six>#bhai>.six6{
+    /* border:1px solid red; */
+    /* margin-left: 270px; */
+   width:290px;
+    margin-top: 60px;
+     height: 60px;
+    
+}
+.drop{
+   
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.drop>p{
+    font-size: 20px;
+    font-family: 'Louis george cafe', sans-serif;
+    width: 100%;
+    max-width: 100%;
+    direction: ltr;
+    font-size: 20px;
+    white-space: pre-wrap;
+   
+
+}
+i{
+    padding-top: 10px;
+}
+/* #kaka{
+    width:100%;
+    height:auto;
+    border:1px solid rgb(0, 0, 0);
+} */
+
+#six>div>div>div{
+    font-size: 130%;
+    font-family: 'Louis george cafe', sans-serif;
+    color: #333;
+    font-size: 17px;
+    line-height: 25px;
+    font-style: normal;
+    padding-right: 20px;
+    padding-left: 20px;
+    /* box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px; */
+}
+#six>div>div{
+    
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+}
+#six>#bhai2{
+    margin-top: 50px;
+    cursor: pointer;
+}
+#six>#bhai2>h1{
+    font-family: 'Louis george cafe', sans-serif;
+    font-weight: bolder;
+    color: #333;
+    margin-left: 10px;
+    
+
+}
+#six>#bhai2>button{
+   
+    height:65px;
+    margin-bottom: 20px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    background-color: #fec;
+    
+    font-family: 'Louis george cafe', sans-serif;
+    color: #fa824c;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border:0.2px solid  #fec;
+    cursor: pointer;
+}
+#sidebar>h2{
+  margin-left: 20px;
+  font-size:25px;
+  margin-top: 50px;
+}
+#sidebar>h2:hover{
+    cursor: pointer;
+    background-color: rgb(232, 232, 232);
+}
+#sidebar>h3:hover{
+    cursor: pointer;
+}
+#sidebar>h3{
+  margin-left: 20px;
+  font-size:35px;
+}
+#sidebar>p{
+  font-size: 20px;
+  margin-left: 40px;
+}
+#disall{
+    width: 80%;
+    margin: auto;
+}
+
