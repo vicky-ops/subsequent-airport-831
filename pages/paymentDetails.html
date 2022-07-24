@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../js/travellerDetails.js" type="module"></script>
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="../css/paymentDetails.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <title>Traveller Details</title>
+</head>
+<body>
+    <div id="navigation">
+    </div>
+    <div id="navigation-hr"></div>
+
+    
+        
+    <div id="secure-checkout">
+        <h2>Payment Details</h2>
+        <p><i class="fa-light fa-lock-a"></i>This form is encrypted and your information is always guaranteed secure.</p>
+        <a href="#" >View Details</a>
+    </div>
+    <div id="left-right">
+    <div id="form_data_left">
+     
+        <div id="contact_data">
+            <div id="selectCard">
+                <input type="radio" name="" id="ccSelect" checked>
+                <label for="ccSelect">Credit Card</label>
+                <div class="cc-list">
+                    <img src="https://static.tacdn.com/img2/solutions/shoppingcart/cc_Mastercard_icon.svg" alt="" width="50px">
+                    <img src="https://static.tacdn.com/img2/solutions/shoppingcart/cc_Visa_icon.svg" alt="">
+                    <img src="https://static.tacdn.com/img2/solutions/shoppingcart/cc_AMEX_2019_icon.svg" alt="">
+                </div>
+            </div>
+            <h5>Cardholder Name <sup>*</sup></h1>
+            <input type="text">
+            <h5>Credit/debit card number <sup>*</sup></h3>
+            <input type="text">
+            <h5>Expiration date <sup>*</sup></h3>
+            <div>
+                <select name="" id="">
+                    <option value="">Month</option>
+                    <option value="">Jan</option>
+                    <option value="">Feb</option>
+                    <option value="">Mar</option>
+                    <option value="">April</option>
+                    <option value="">May</option>
+                    <option value="">Jun</option>
+                    <option value="">July</option>
+                    <option value="">Aug</option>
+                    <option value="">Sept</option>
+                    <option value="">Oct</option>
+                    <option value="">Nov</option>
+                    <option value="">Dec</option>
+                </select>
+                <select name="" id="">
+                    <option value="">2022</option>
+                    <option value="">2023</option>
+                    <option value="">2025</option>
+                    <option value="">2026</option>
+                    <option value="">2027</option>
+                    <option value="">2028</option>
+                </select>
+            </div>
+            <h5>CVC Code <sup>*</sup></h3>
+            <input type="text" name="" id="">
+            <div id="billingAddr">
+                <h2>Billing Address</h2>
+                <div>
+                    <h4>Country <sup>*</sup></h4>
+                    <h4>Postal/Zip Code <sup>*</sup></h4>
+                </div>
+                <div>
+                    <select name="" id="">
+                        <option value="">India</option>
+                        <option value="">Pakistan</option>
+                        <option value="">Srilanka</option>
+                        <option value="">Bangladesh</option>
+                    </select>
+                    <input type="text">
+                </div>
+                <input type="checkbox" name="" id="checkBox">
+                <label for="checkBox">Add this card to your account for future use</label>
+
+            </div>
+        </div>
+       
+
+       
+        <button id="handleDetails">Next</button>
+    </div>
+
+    <div id="data_right">
+
+    <!-- right data -->
+    <div id="review_right-top">
+        <h3>Review Order Details</h1>
+        <div>
+            <!-- from local Storage -->
+            <img src="" alt="" id="tour_poster" width="150px" height="150px">
+            <div id="tour_details">
+                <p class="nospace bold"></p>
+                <p class="nospace"></p>
+                <p class="nospace"></p>
+            </div>
+        </div>
+        <div class="priceCard">
+<p class="bold">Booking Fee</h4>
+    <p  class="bold" id="bookingFee"></span>
+
+        </div>
+
+
+        <div class="priceCard">
+        <p class="bold">Subtotal</h4>
+            <p  class="bold" id="subtotalFee"></span>
+        </div>
+
+        <div class="priceCard">
+            <p class="bold">Total</h3>
+                <p  class="bold" id="totalFee"></span>
+        </div>
+       
+    </div>
+
+    <div id="review_right-bottom">
+        <h3>Book with confidence</h1>
+            <hr>
+        <div>
+            <div class="little-card">
+                <!-- link for icon -->
+                
+                <i class="fa-solid fa-wallet fa-2x"></i>
+                <!-- </div> -->
+                <!-- h3 and p -->
+                <div>
+                    <h5>Lowest price quarantee</h5>
+                    <p>Find it cheaper? We'll refund the difference</p>
+                </div>
+            </div>
+
+            <div class="little-card">
+                <!-- link for icon -->
+                <!-- <div></div> -->
+                <!-- <i class="fa-solid fa-lock-keyhole"></i> -->
+                <i class="fa-solid fa-lock fa-2x "></i>
+                <!-- h3 and p -->
+                <div>
+                    <h5>Privacy protection</h5>
+                    <p>We use SSL encryption to keep your data secure</p>
+                </div>
+            </div>
+
+            <div class="little-card">
+                <!-- link for icon -->
+                <!-- <div></div> -->
+                <!-- h3 and p -->
+                <i class="fa-solid fa-headset fa-2x"></i>
+                <div>
+                    <h5>27/7 global support</h5>
+                    <p>Get the answers you need, when you need them</p>
+                </div>
+            </div>
+
+            <div class="little-card">
+                <!-- link for icon -->
+                <!-- <div></div> -->
+                <i class="fa-solid fa-phone fa-2x"></i>
+                <!-- h3 and p -->
+                <div>
+                    <h5>Give us a call</h5>
+                    <p>We’d be happy to help you out with your booking</p>
+                    <p>Call now: 000-0800-100-6999</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+</div>
+    <p id="footer">© 2022 TripAdvisor LLC All rights reserved. Tripadvisor Terms of Use and Privacy Policy.</p>
+</body>
+</html>
+<script>
+// working with top little bar
+
+    // get logged in user data
+let user = JSON.parse(localStorage.getItem("users")) || [];
+// get wishlist
+let wishlist = JSON.parse(localStorage.getItem('Hoteldata')) || [];
+console.log(user.email);
+// document.querySelector('#email_id').textContent=user.email;
+// document.querySelector('#firstName').placeholder=user.firstname;
+// document.querySelector('#lastName').placeholder=user.secondname;
+
+// append wishlist data
+document.querySelector('#tour_poster').src=wishlist[0].Image;
+let area = wishlist[0].dis.slice(0,50)
+let ratings = "🟢🟢🟢🟢(34 reviews)";
+let complement= "Car pickup airport & Whitefied - 07:00";
+document.querySelector("#tour_details>p:nth-child(1)").textContent=area;
+document.querySelector("#tour_details>p:nth-child(2)").textContent=ratings;
+document.querySelector("#tour_details>p:nth-child(3)").textContent=complement;
+
+
+// booking fees
+let fixedFee="$11.72"
+let fixedAmount = +fixedFee.slice(1)
+let wishlistPrice = wishlist[0].Price;
+let wishlistAmount = +wishlistPrice.slice(1)
+let totalCost= fixedAmount+wishlistAmount;
+console.log(typeof fixedAmount ,typeof wishlistAmount)
+document.querySelector('#bookingFee').textContent=fixedFee;
+document.querySelector('#subtotalFee').textContent="$"+wishlistAmount;
+document.querySelector('#totalFee').textContent="$"+totalCost;
+
+
+// handle Events from click
+document.querySelector('#handleDetails').addEventListener('click',handleDetails)
+function handleDetails(){
+    setTimeout(function(){
+        alert("Your Booking is confirmed!")
+        setTimeout(function(){
+            alert('You will be redirected to home page')
+            window.location.href='../index.html'
+        },1000)
+    },1000)
+
+}
+
+</script>

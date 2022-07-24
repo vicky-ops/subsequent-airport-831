@@ -1,0 +1,255 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+body {
+    font-family: 'Poppins';font-size: 22px;
+    width: 100%;
+}
+#navigation{
+    /* margin-top:50px; */
+    width: 70%;
+    margin:50px auto;
+}
+#navigation-hr{
+    width: 100%;
+    border-bottom: 3px solid gray;
+    margin-bottom: 50px;
+}
+/* <div id="navigation-hr"></div> */
+
+#navigation>img{
+    width: 250px;
+    margin-bottom: 10px;
+}
+#navigation>div{
+    display: flex;
+    text-align: center;
+    gap:30px;
+    /* margin-left: 10%; */
+    justify-content: center;
+}
+/* #navigation>di */
+.bar{
+    width: 200px;
+    height: 12px;
+    border-radius: 5px;
+    border:2px solid rgb(0, 0, 0);
+}
+.bar+h4{
+    margin-top:5px;
+    font-size: 22px;
+}
+
+/* payment page */
+#selectCard{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap:10px;
+    font-size: 20px;
+}
+.cc-list{
+    display: flex;
+    gap:5px;
+}
+#ccSelect{
+    width:25px;
+    height: 30px;
+    color:#000;
+    background-color: #000;
+}
+/* secure checkout */
+#secure-checkout{
+    width: 70%;
+    margin:0 auto;
+}
+#secure-chckout>h2{
+    margin:0;
+}
+#secure-checkout>div{
+    /* background-color: #EAFAF4; */
+    /* color:gray; */
+    font-size:18px;
+    padding:8px;
+    margin-top:0;
+    /* border-radius: 10px;; */
+    /* line-height: 50%; */
+    /* font-weight: 700; */
+}
+
+#left-right{
+    width: 70%;
+    display: flex;
+    margin:auto;
+    justify-content:space-between;
+    /* line-height: 50%; */
+    /* border:1px solid black; */
+}
+
+#form_data_left{
+    /* border:1px solid black; */
+    margin-top:20px ;
+
+    width: 60%;
+}
+
+#data_right{
+    /* border:1px solid black; */
+    margin-top:20px ;
+    width: 30%;
+    /* border:1px solid black; */
+}
+
+#review_right-top,#review_right-bottom{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding:20px;
+    margin-bottom: 20px;
+}
+
+sup{
+    color:red;
+}
+
+
+
+/* left data */
+#form_data_left{
+    display: flex;
+    flex-direction: column;
+    gap:40px;
+    /* margin-top:40px; */
+}
+/* #form_data_l */
+/* #contact_data{
+    margin:20px 0;
+
+}
+#contact_data>div{
+    display: flex;
+    gap:20px;
+    justify-content:space-between;
+}
+#contact_data>div>:first-child{
+    pointer-events:none;
+} */
+
+
+
+/* email id */
+#email_id{
+    /* border:1px solid gray; */
+    padding:10px;
+    color:gray;
+    border-radius: 5px;
+}
+#phone_number{
+    /* border: 1px solid gray; */
+    height: 40px;
+    /* margin-right: -105px; */
+    width: 250px;
+    border-radius: 5px;
+}
+
+/* traveller */
+#traveller_data>div{
+    display: flex;
+    gap:20px;
+    justify-content:space-between;
+    font-weight: 700;
+    pointer-events:none;
+
+}
+#traveller_data>div>input{
+    /* border: 1px solid gray; */
+    height: 40px;
+    /* margin-right: -105px; */
+    width: 250px;
+    border-radius: 5px;
+    padding:10px;
+}
+#traveller_data h5{
+    font-weight: 700;
+    color:gray;
+}
+/* #traveller_data>div>input{
+    color:rgb(183, 32, 32);
+}
+ */
+
+/* Tour data */
+#tour_data>div{
+    display: flex;
+    flex-direction: column;
+}
+#tour_data>div>input{
+    width: 100%;
+    height: 40px;
+    padding:20px;
+    font-size:20px;
+
+}
+#tour_data>h5{
+    color: gray;
+}
+#tour_data>div>label{
+    font-size: 16px;
+    font-weight:700;
+    color:gray
+}
+
+
+#handleDetails{
+    color:#fff;
+    background-color: #000;
+    width:50%;
+    margin:auto;
+    padding:10px 0;
+    font-weight: bold;
+    border-radius: 15px;
+}
+#review_right-top>div{
+    display:flex;
+}
+
+
+#tour_details{
+    margin:0;
+    padding:10px;
+}
+.bold{
+    font-weight: 700;
+}
+.no-space{
+    margin: 0;
+    padding:0
+}
+
+.priceCard{
+   display: flex;
+   justify-content: space-between; 
+}
+
+.little-card{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    align-items:flex-start;
+}
+.little-card>div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.bar1{
+    background-color: #000;
+}
+
+#footer{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
